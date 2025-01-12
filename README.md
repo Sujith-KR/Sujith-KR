@@ -5,9 +5,9 @@ I am a passionate **Data Analyst** with over **10 years of accounting experience
 
 With a strong foundation in accounting, I bring a unique perspective to analyzing data, identifying patterns, and uncovering insights that can guide strategic actions. As a Data Analyst, my goal is to let the data tell its story—revealing hidden opportunities, solving complex problems, and enabling informed decision-making.
 
-**Key Interests**: Data visualization, trend analysis, and actionable insights.
-**Philosophy**: Turning raw data into meaningful narratives that support business growth.
-**Aspiration**: To harness the power of data and help organizations thrive in an increasingly data-driven world.
+✅ **Key Interests**: Data visualization, trend analysis, and actionable insights.
+✅ **Philosophy**: Turning raw data into meaningful narratives that support business growth.
+✅ **Aspiration**: To harness the power of data and help organizations thrive in an increasingly data-driven world.
 
 
 I specialize in:  
