@@ -71,6 +71,6 @@ Currently, I’m upskilling in **Power BI**, **SQL**, and advanced **Python** to
 ## 🤝 Let's Connect  
 
 - 💼 **LinkedIn**: [linkedin.com/in/kr-sujith](https://www.linkedin.com/in/kr-sujith)
-- 💼 **Instagram**: [Instagram.com/sujithkr](https://www.instagram.com/sujitkr)    
+- 💼 **Instagram**: [Instagram.com/sujithkr](https://www.instagram.com/sujithkr)    
 
 ---  
