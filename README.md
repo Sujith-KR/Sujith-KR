@@ -4,12 +4,11 @@
 I am a passionate **Data Analyst** with over **10 years of accounting experience**, combining financial expertise with a keen interest in **data analysis** and **storytelling**. I believe that **data is everywhere**, and proper understanding and usage of data are essential for making better decisions and driving growth.
 
 With a strong foundation in accounting, I bring a unique perspective to analyzing data, identifying patterns, and uncovering insights that can guide strategic actions. As a Data Analyst, my goal is to let the data tell its story—revealing hidden opportunities, solving complex problems, and enabling informed decision-making.
-
-✅ **Key Interests**: Data visualization, trend analysis, and actionable insights. 
-✅ **Philosophy**: Turning raw data into meaningful narratives that support business growth.
-✅ **Aspiration**: To harness the power of data and help organizations thrive in an increasingly data-driven world.
-
-
+ 
+✅ **Key Interests**: Data visualization, trend analysis, and actionable insights.  
+✅ **Philosophy**: Turning raw data into meaningful narratives that support business growth.   
+✅ **Aspiration**: To harness the power of data and help organizations thrive in an increasingly data-driven world.  
+  
 I specialize in:  
 ✅ **Data Analysis** and **Visualization**  
 ✅ **Business Intelligence**  
@@ -29,7 +28,7 @@ Currently, I’m upskilling in **Power BI**, **SQL**, **Tablueau** and advanced 
 - **Finance & Accounting**: Budgeting, Financial Reporting, VAT Filing, Payroll, General Ledger
 
 ### **Tools**  
-- Power BI | Tableau | Excel | Tally | Python | SQL | MangoDB | Jupyter Notebook | Visual Studio Code | SQL Server Management Studio
+- Power BI | Tableau | Excel | Python | SQL | MangoDB | Jupyter Notebook | Visual Studio Code | SQL Server Management Studio | Tally |
 
 ### **Soft Skills**  
 - Problem-Solving | Critical Thinking | Data Storytelling | Collaboration | Attention to Detail  
